@@ -1,0 +1,23 @@
+.color-gradient-app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.color-gradient-app__container {
+  width: 80%;
+  padding: 2rem;
+  max-width: 1200px;
+  min-width: 500px;
+}
+
+.color-gradient-app__selectors {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+}
+
+.color-gradient-app__gradient {
+  margin-top: 1rem;
+}

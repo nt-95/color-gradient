@@ -1,0 +1,6 @@
+.rotation-selector {
+  border: 1px solid black;
+  padding: 15px;
+  display: grid;
+  /* width: 500px; */
+}
