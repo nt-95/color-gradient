@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 
 const ColorPicker = ({ n, color, handleChange }) => {
   return (
