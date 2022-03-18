@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import ColorGradient from "./ColorGradient";
+import ColorGradientApp from "./ColorGradientApp";
 
 ReactDOM.render(
   <React.StrictMode>
-    <ColorGradient />
+    <ColorGradientApp />
   </React.StrictMode>,
   document.getElementById("root")
 );
